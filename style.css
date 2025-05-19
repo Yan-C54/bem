@@ -54,5 +54,10 @@ body {
     animation: rotBGimg 3.5s linear infinite;
   } */
   
+  .card {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
   
   
